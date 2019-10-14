@@ -11,7 +11,6 @@ threes = 0
 fours = 0
 fives = 0
 sixes = 0
-hundred = 100
 
 print("Welcome to Dice Rolling Simulator")
 print("")
